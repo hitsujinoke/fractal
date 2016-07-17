@@ -14,7 +14,7 @@ def initialize_image(x_p, y_p):
         image.append(x_colors)
     return image
 
-
+# https://en.wikipedia.org/wiki/Mandelbrot_set
 def mandelbrot():
     x_p = 400
     y_p = 400
