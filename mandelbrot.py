@@ -15,6 +15,7 @@ def initialize_image(x_p, y_p):
     return image
 
 # https://en.wikipedia.org/wiki/Mandelbrot_set
+# 二行目
 def mandelbrot():
     x_p = 400
     y_p = 400
